@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "TodoList",
+    "packageName": "com.example.todolist",
+    "packageFolder": "com/example/todolist",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "OGM1MWFiMGY2NzQwMjMyN2Q0ZDk3ZTk5MDQzZmU2ODI4MmZkNzc0ZTQ4MTY0NWZkM2JiMzE4ZmJiYTIzZjlkYmNmNjRkZTllZjFkYzc5N2Y3Yzc0ZGRlYWRjMzBiYmQ1MmVlM2RhYzg5YmNmOTgwZWI2NDdkMzZiOWQyZGJjOGQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "marcopgordillo",
+  "repository-name": "TodoListJhipster"
+}
